@@ -1,4 +1,4 @@
-##This assignment is 2018 spring semester for the course named Data Science in NTHU CS.
+## This assignment is 2018 spring semester for the course named Data Science in NTHU CS.
 
 ### Goal
 * Find a MAX clique for an undirected graph
