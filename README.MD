@@ -26,6 +26,3 @@
 ### Operation
 * Use makefile to compile this program. Type this instruction "main.exe inputFileName.txt oututFileName.txt" in the cmd.
 * The program will be terminated if the execution time is over 3 minutes or it finds the MAX clique.
-
-### Note
-&emsp; The number of nodes and edges in the final test case are 82168 and 2907369. So, I need to access individual bits in a char or I can't load the test case. The MAX clique size which this program finds in the final testing case is over 1200. I think the test case is customized by TA, so it can be divided by 8. If you want to run in other cases, you need to adjust the program a little. By the way, The TA doesn't provide the final testing case and the final result. I can only know that the clique size is over 1200.
